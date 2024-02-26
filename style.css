@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(5, 22, 75);
+    padding: 50px;
+}
+
+p{
+    color: rgb(243, 244, 249);
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 70px;
+    margin-left:40px ;
+}
+
+button{
+    cursor:pointer;
+}
+
+#four{
+   margin-top: 80px; 
+   margin-left:40px ;
+   border-radius: 10%;
+}
+
+#first,#second,#third{
+    margin-left: 40px;
+    border-radius: 10%;
+}
